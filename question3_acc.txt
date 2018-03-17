@@ -1,0 +1,2 @@
+The accuracy rate is 99.66666666666667 %
+It takes 15.729078737997042 second

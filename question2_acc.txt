@@ -1,0 +1,3 @@
+The accuracy rate is 100.0 %
+It takes 20.893677243999264 second
+[4;33mReloaded modules[24m: dicts[0m
