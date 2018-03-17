@@ -1,7 +1,6 @@
 # Simple-Language-Recognition
 Name: Carl Xu
-Assignment 2
-Ling 406
+
 
 This is the read me file for my assignment two regarding letter bigram and word bigram with two smoothing methods. (Add one, good turing) There are four parts in the file. They are Q1(question1), Q2(question2), Analysis and Q3(extra credit). For each question, there are two parts in it, brief summary and instruction. Brief summary give some ideas about the program and intuition behind it. And it also includes some thoughts. Instruction part provides step by step instruction how does the program works and what files are needed before you run the program.
 
